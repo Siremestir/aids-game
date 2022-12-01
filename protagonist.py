@@ -41,3 +41,11 @@ class Protagonist:
 
     def set_finance(self, finance:int) -> None:
         self._finance = finance
+    
+    
+    def have_dialog(self, quest):
+        pass
+
+
+    def do_research(self, quest):
+        pass
