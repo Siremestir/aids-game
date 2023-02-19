@@ -49,3 +49,7 @@ class Protagonist:
 
     def do_research(self, quest):
         pass
+
+
+    def advance_event(self):
+        pass
